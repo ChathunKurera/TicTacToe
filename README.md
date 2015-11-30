@@ -9,3 +9,6 @@ two Thalmic Labs ~Myo~ armbands will be used to control the game. Two players ca
 to the desired position and either put a X(cross) or a O(zero).
 
 This desktop computer software was developed at University of Waterloo EngHack hackathon on 14-15 November, 2015
+
+
+![alt tag](https://github.com/ychathun/TicTacToe/blob/master/TTT.JPG)
